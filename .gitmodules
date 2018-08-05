@@ -1,0 +1,6 @@
+[submodule "comp/extract_commands"]
+	path = comp/extract_commands
+	url = https://github.com/kubicas/c65db8a8019f490aaeed0e9365a87115/
+[submodule "comp/flying_start"]
+	path = comp/flying_start
+	url = https://github.com/kubicas/4797f4c6c8c04647b62c0862ac96b2b7/
